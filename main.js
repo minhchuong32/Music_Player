@@ -31,6 +31,12 @@ const app = {
     isRepeat: false,
     songs: [
         {
+            name: "Em Xinh",
+            singer: "MONO",
+            path: "./assets/music/emxinh.mp3",
+            image: "./assets/images/emxinh.jpg",
+        },
+        {
             name: "Blue",
             singer: "Young Kai",
             path: "./assets/music/Blue.mp3",
@@ -59,12 +65,6 @@ const app = {
             singer: "Da LAB ft. Minh Tốc & Lam",
             path: "./assets/music/bautroimoi.mp3",
             image: "./assets/images/bautroimoi.jpg",
-        },
-        {
-            name: "Em Xinh",
-            singer: "MONO",
-            path: "./assets/music/emxinh.mp3",
-            image: "./assets/images/emxinh.jpg",
         },
         {
             name: "id thang máy (feat. 267)",
