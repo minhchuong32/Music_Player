@@ -43,12 +43,6 @@ const app = {
             image: "./assets/images/phonecert.jpg",
         },
         {
-            name: "Aya Nakamura - Copines (Lyrics)",
-            singer: "10cm",
-            path: "./assets/music/copines.mp3",
-            image: "./assets/images/copines.jpg",
-        },
-        {
             name: "id thang máy (feat. 267)",
             singer: "W/N",
             path: "./assets/music/idThangMay.mp3",
@@ -77,6 +71,12 @@ const app = {
             singer: "Kristel Fulgar",
             path: "./assets/music/BeautifulScars.mp3",
             image: "./assets/images/BeautifulScars.jpg",
+        },
+        {
+            name: "Aya Nakamura - Copines (Lyrics)",
+            singer: "10cm",
+            path: "./assets/music/copines.mp3",
+            image: "./assets/images/copines.jpg",
         },
         {
             name: "Lan Man",
