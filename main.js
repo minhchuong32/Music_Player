@@ -43,6 +43,30 @@ const app = {
             image: "./assets/images/phonecert.jpg",
         },
         {
+            name: "Say Yes",
+            singer: "Ogenus",
+            path: "./assets/music/sayyes.mp3",
+            image: "./assets/images/sayyes.jpg",
+        },
+        {
+            name: "Chăm Hoa",
+            singer: "MONO",
+            path: "./assets/music/chamhoa.mp3",
+            image: "./assets/images/chamhoa.jpg",
+        },
+        {
+            name: "Bầu Trời Mới",
+            singer: "Da LAB ft. Minh Tốc & Lam",
+            path: "./assets/music/bautroimoi.mp3",
+            image: "./assets/images/bautroimoi.jpg",
+        },
+        {
+            name: "Em Xinh",
+            singer: "MONO",
+            path: "./assets/music/emxinh.mp3",
+            image: "./assets/images/emxinh.jpg",
+        },
+        {
             name: "id thang máy (feat. 267)",
             singer: "W/N",
             path: "./assets/music/idThangMay.mp3",
