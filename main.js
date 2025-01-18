@@ -55,6 +55,18 @@ const app = {
             image: "./assets/images/idThangMay.jpg",
         },
         {
+            name: "Anh sẽ đón em",
+            singer: "Nguyên",
+            path: "./assets/music/anhsedonem.mp3",
+            image: "./assets/images/anhsedonem.jpg",
+        },
+        {
+            name: "Bước nhẹ vào tim anh",
+            singer: "Trúc Linh",
+            path: "./assets/music/buocnhevaotimanh.mp3",
+            image: "./assets/images/buocnhevaotimanh.jpg",
+        },
+        {
             name: "3 1 0 7 - 2 (Lofi Ver.)",
             singer: "Orinn",
             path: "./assets/music/3107.mp3",
@@ -275,7 +287,6 @@ const app = {
                 }
                 // xử lí khi click vào option
                 if (e.target.closest(".option")) {
-                    
                 }
             }
         };
@@ -329,6 +340,3 @@ const app = {
 };
 
 app.start();
-
-
-
